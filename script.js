@@ -1,3 +1,5 @@
+// Name:- Rishu Raj, College - Lovely Professionl University, Year of Passing - 2023, 9521404513, email - iamrishuydv@gmail.com 
+
 // Basket
 var basketObj = [
     {productName: "Leather Wallet", unitPrice: 1100, gstRate: 18, productQuantity: 1},
